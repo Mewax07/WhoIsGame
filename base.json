@@ -1,0 +1,614 @@
+[
+	{
+		"name": "Woody Allen",
+		"links": [
+			{ "type": "sex", "result": "Homme" },
+			{ "type": "vivant", "result": "Oui" },
+			{ "type": "age", "result": "90" },
+			{ "type": "victime", "result": "Non" },
+			{ "type": "proximite", "result": "Connaissance" },
+			{ "type": "nationalite", "result": "Americain" },
+			{ "type": "ile", "result": "Non" }
+		]
+	},
+	{
+		"name": "Soon-Yi Previn",
+		"links": [
+			{ "type": "sex", "result": "Femme" },
+			{ "type": "vivant", "result": "Oui" },
+			{ "type": "age", "result": "55" },
+			{ "type": "victime", "result": "Non" },
+			{ "type": "proximite", "result": "Connaissance" },
+			{ "type": "nationalite", "result": "Americaine" },
+			{ "type": "ile", "result": "Non" }
+		]
+	},
+	{
+		"name": "Ghislaine Maxwell",
+		"links": [
+			{ "type": "sex", "result": "Femme" },
+			{ "type": "vivant", "result": "Oui" },
+			{ "type": "age", "result": "64" },
+			{ "type": "victime", "result": "Non" },
+			{ "type": "proximite", "result": "Tres proche" },
+			{ "type": "nationalite", "result": "Britannique" },
+			{ "type": "ile", "result": "Oui" }
+		]
+	},
+	{
+		"name": "Virginia Giuffre",
+		"links": [
+			{ "type": "sex", "result": "Femme" },
+			{ "type": "vivant", "result": "Oui" },
+			{ "type": "age", "result": "42" },
+			{ "type": "victime", "result": "Oui" },
+			{ "type": "proximite", "result": "Victime / accusatrice" },
+			{ "type": "nationalite", "result": "Americaine" },
+			{ "type": "ile", "result": "Oui" }
+		]
+	},
+	{
+		"name": "Johanna Sjoberg",
+		"links": [
+			{ "type": "sex", "result": "Femme" },
+			{ "type": "vivant", "result": "Oui" },
+			{ "type": "age", "result": "46" },
+			{ "type": "victime", "result": "Oui" },
+			{ "type": "proximite", "result": "Victime / accusatrice" },
+			{ "type": "nationalite", "result": "Suedoise/Americaine" },
+			{ "type": "ile", "result": "Oui" }
+		]
+	},
+	{
+		"name": "Prince Andrew",
+		"links": [
+			{ "type": "sex", "result": "Homme" },
+			{ "type": "vivant", "result": "Oui" },
+			{ "type": "age", "result": "66" },
+			{ "type": "victime", "result": "Non" },
+			{ "type": "proximite", "result": "Tres proche" },
+			{ "type": "nationalite", "result": "Britannique" },
+			{ "type": "ile", "result": "Oui" }
+		]
+	},
+	{
+		"name": "Bill Clinton",
+		"links": [
+			{ "type": "sex", "result": "Homme" },
+			{ "type": "vivant", "result": "Oui" },
+			{ "type": "age", "result": "79" },
+			{ "type": "victime", "result": "Non" },
+			{ "type": "proximite", "result": "Proche" },
+			{ "type": "nationalite", "result": "Americain" },
+			{ "type": "ile", "result": "Oui" }
+		]
+	},
+	{
+		"name": "Donald Trump",
+		"links": [
+			{ "type": "sex", "result": "Homme" },
+			{ "type": "vivant", "result": "Oui" },
+			{ "type": "age", "result": "79" },
+			{ "type": "victime", "result": "Non" },
+			{ "type": "proximite", "result": "Connaissance" },
+			{ "type": "nationalite", "result": "Americain" },
+			{ "type": "ile", "result": "Non" }
+		]
+	},
+	{
+		"name": "Bill Gates",
+		"links": [
+			{ "type": "sex", "result": "Homme" },
+			{ "type": "vivant", "result": "Oui" },
+			{ "type": "age", "result": "70" },
+			{ "type": "victime", "result": "Non" },
+			{ "type": "proximite", "result": "Proche" },
+			{ "type": "nationalite", "result": "Americain" },
+			{ "type": "ile", "result": "Oui" }
+		]
+	},
+	{
+		"name": "Ehud Barak",
+		"links": [
+			{ "type": "sex", "result": "Homme" },
+			{ "type": "vivant", "result": "Oui" },
+			{ "type": "age", "result": "84" },
+			{ "type": "victime", "result": "Non" },
+			{ "type": "proximite", "result": "Proche" },
+			{ "type": "nationalite", "result": "Israelien" },
+			{ "type": "ile", "result": "Oui" }
+		]
+	},
+	{
+		"name": "Alan Dershowitz",
+		"links": [
+			{ "type": "sex", "result": "Homme" },
+			{ "type": "vivant", "result": "Oui" },
+			{ "type": "age", "result": "87" },
+			{ "type": "victime", "result": "Non" },
+			{ "type": "proximite", "result": "Tres proche" },
+			{ "type": "nationalite", "result": "Americain" },
+			{ "type": "ile", "result": "Oui" }
+		]
+	},
+	{
+		"name": "Stephen Hawking",
+		"links": [
+			{ "type": "sex", "result": "Homme" },
+			{ "type": "vivant", "result": "Non" },
+			{ "type": "age", "result": "76" },
+			{ "type": "victime", "result": "Non" },
+			{ "type": "proximite", "result": "Connaissance" },
+			{ "type": "nationalite", "result": "Britannique" },
+			{ "type": "ile", "result": "Oui" }
+		]
+	},
+	{
+		"name": "Les Wexner",
+		"links": [
+			{ "type": "sex", "result": "Homme" },
+			{ "type": "vivant", "result": "Oui" },
+			{ "type": "age", "result": "88" },
+			{ "type": "victime", "result": "Non" },
+			{ "type": "proximite", "result": "Tres proche" },
+			{ "type": "nationalite", "result": "Americain" },
+			{ "type": "ile", "result": "Oui" }
+		]
+	},
+	{
+		"name": "Jean-Luc Brunel",
+		"links": [
+			{ "type": "sex", "result": "Homme" },
+			{ "type": "vivant", "result": "Non" },
+			{ "type": "age", "result": "75" },
+			{ "type": "victime", "result": "Non" },
+			{ "type": "proximite", "result": "Tres proche" },
+			{ "type": "nationalite", "result": "Francais" },
+			{ "type": "ile", "result": "Oui" }
+		]
+	},
+	{
+		"name": "Naomi Campbell",
+		"links": [
+			{ "type": "sex", "result": "Femme" },
+			{ "type": "vivant", "result": "Oui" },
+			{ "type": "age", "result": "55" },
+			{ "type": "victime", "result": "Non" },
+			{ "type": "proximite", "result": "Proche" },
+			{ "type": "nationalite", "result": "Britannique" },
+			{ "type": "ile", "result": "Oui" }
+		]
+	},
+	{
+		"name": "Michael Jackson",
+		"links": [
+			{ "type": "sex", "result": "Homme" },
+			{ "type": "vivant", "result": "Non" },
+			{ "type": "age", "result": "50" },
+			{ "type": "victime", "result": "Non" },
+			{ "type": "proximite", "result": "Connaissance" },
+			{ "type": "nationalite", "result": "Americain" },
+			{ "type": "ile", "result": "Non" }
+		]
+	},
+	{
+		"name": "David Copperfield",
+		"links": [
+			{ "type": "sex", "result": "Homme" },
+			{ "type": "vivant", "result": "Oui" },
+			{ "type": "age", "result": "69" },
+			{ "type": "victime", "result": "Non" },
+			{ "type": "proximite", "result": "Connaissance" },
+			{ "type": "nationalite", "result": "Americain" },
+			{ "type": "ile", "result": "Non" }
+		]
+	},
+	{
+		"name": "Kevin Spacey",
+		"links": [
+			{ "type": "sex", "result": "Homme" },
+			{ "type": "vivant", "result": "Oui" },
+			{ "type": "age", "result": "66" },
+			{ "type": "victime", "result": "Non" },
+			{ "type": "proximite", "result": "Connaissance" },
+			{ "type": "nationalite", "result": "Americain" },
+			{ "type": "ile", "result": "Non" }
+		]
+	},
+	{
+		"name": "Chris Tucker",
+		"links": [
+			{ "type": "sex", "result": "Homme" },
+			{ "type": "vivant", "result": "Oui" },
+			{ "type": "age", "result": "54" },
+			{ "type": "victime", "result": "Non" },
+			{ "type": "proximite", "result": "Connaissance" },
+			{ "type": "nationalite", "result": "Americain" },
+			{ "type": "ile", "result": "Oui" }
+		]
+	},
+	{
+		"name": "Mick Jagger",
+		"links": [
+			{ "type": "sex", "result": "Homme" },
+			{ "type": "vivant", "result": "Oui" },
+			{ "type": "age", "result": "82" },
+			{ "type": "victime", "result": "Non" },
+			{ "type": "proximite", "result": "Connaissance" },
+			{ "type": "nationalite", "result": "Britannique" },
+			{ "type": "ile", "result": "Non" }
+		]
+	},
+	{
+		"name": "Richard Branson",
+		"links": [
+			{ "type": "sex", "result": "Homme" },
+			{ "type": "vivant", "result": "Oui" },
+			{ "type": "age", "result": "75" },
+			{ "type": "victime", "result": "Non" },
+			{ "type": "proximite", "result": "Connaissance" },
+			{ "type": "nationalite", "result": "Britannique" },
+			{ "type": "ile", "result": "Oui" }
+		]
+	},
+	{
+		"name": "Elon Musk",
+		"links": [
+			{ "type": "sex", "result": "Homme" },
+			{ "type": "vivant", "result": "Oui" },
+			{ "type": "age", "result": "54" },
+			{ "type": "victime", "result": "Non" },
+			{ "type": "proximite", "result": "Connaissance" },
+			{ "type": "nationalite", "result": "Sud-africain/Americain" },
+			{ "type": "ile", "result": "Non" }
+		]
+	},
+	{
+		"name": "Sergey Brin",
+		"links": [
+			{ "type": "sex", "result": "Homme" },
+			{ "type": "vivant", "result": "Oui" },
+			{ "type": "age", "result": "52" },
+			{ "type": "victime", "result": "Non" },
+			{ "type": "proximite", "result": "Connaissance" },
+			{ "type": "nationalite", "result": "Americain" },
+			{ "type": "ile", "result": "Oui" }
+		]
+	},
+	{
+		"name": "Reid Hoffman",
+		"links": [
+			{ "type": "sex", "result": "Homme" },
+			{ "type": "vivant", "result": "Oui" },
+			{ "type": "age", "result": "58" },
+			{ "type": "victime", "result": "Non" },
+			{ "type": "proximite", "result": "Connaissance" },
+			{ "type": "nationalite", "result": "Americain" },
+			{ "type": "ile", "result": "Non" }
+		]
+	},
+	{
+		"name": "Annie Farmer",
+		"links": [
+			{ "type": "sex", "result": "Femme" },
+			{ "type": "vivant", "result": "Oui" },
+			{ "type": "age", "result": "46" },
+			{ "type": "victime", "result": "Oui" },
+			{ "type": "proximite", "result": "Victime / accusatrice" },
+			{ "type": "nationalite", "result": "Americaine" },
+			{ "type": "ile", "result": "Oui" }
+		]
+	},
+	{
+		"name": "Sarah Ransome",
+		"links": [
+			{ "type": "sex", "result": "Femme" },
+			{ "type": "vivant", "result": "Oui" },
+			{ "type": "age", "result": "41" },
+			{ "type": "victime", "result": "Oui" },
+			{ "type": "proximite", "result": "Victime / accusatrice" },
+			{ "type": "nationalite", "result": "Britannique" },
+			{ "type": "ile", "result": "Oui" }
+		]
+	},
+	{
+		"name": "Sarah Ferguson",
+		"links": [
+			{ "type": "sex", "result": "Femme" },
+			{ "type": "vivant", "result": "Oui" },
+			{ "type": "age", "result": "66" },
+			{ "type": "victime", "result": "Non" },
+			{ "type": "proximite", "result": "Connaissance" },
+			{ "type": "nationalite", "result": "Britannique" },
+			{ "type": "ile", "result": "Non" }
+		]
+	},
+	{
+		"name": "Eva Andersson-Dubin",
+		"links": [
+			{ "type": "sex", "result": "Femme" },
+			{ "type": "vivant", "result": "Oui" },
+			{ "type": "age", "result": "64" },
+			{ "type": "victime", "result": "Non" },
+			{ "type": "proximite", "result": "Proche" },
+			{ "type": "nationalite", "result": "Suedoise/Americaine" },
+			{ "type": "ile", "result": "Oui" }
+		]
+	},
+	{
+		"name": "Glenn Dubin",
+		"links": [
+			{ "type": "sex", "result": "Homme" },
+			{ "type": "vivant", "result": "Oui" },
+			{ "type": "age", "result": "69" },
+			{ "type": "victime", "result": "Non" },
+			{ "type": "proximite", "result": "Proche" },
+			{ "type": "nationalite", "result": "Americain" },
+			{ "type": "ile", "result": "Oui" }
+		]
+	},
+	{
+		"name": "Leon Black",
+		"links": [
+			{ "type": "sex", "result": "Homme" },
+			{ "type": "vivant", "result": "Oui" },
+			{ "type": "age", "result": "74" },
+			{ "type": "victime", "result": "Non" },
+			{ "type": "proximite", "result": "Proche" },
+			{ "type": "nationalite", "result": "Americain" },
+			{ "type": "ile", "result": "Oui" }
+		]
+	},
+	{
+		"name": "Howard Lutnick",
+		"links": [
+			{ "type": "sex", "result": "Homme" },
+			{ "type": "vivant", "result": "Oui" },
+			{ "type": "age", "result": "64" },
+			{ "type": "victime", "result": "Non" },
+			{ "type": "proximite", "result": "Connaissance" },
+			{ "type": "nationalite", "result": "Americain" },
+			{ "type": "ile", "result": "Oui" }
+		]
+	},
+	{
+		"name": "Peter Mandelson",
+		"links": [
+			{ "type": "sex", "result": "Homme" },
+			{ "type": "vivant", "result": "Oui" },
+			{ "type": "age", "result": "72" },
+			{ "type": "victime", "result": "Non" },
+			{ "type": "proximite", "result": "Connaissance" },
+			{ "type": "nationalite", "result": "Britannique" },
+			{ "type": "ile", "result": "Oui" }
+		]
+	},
+	{
+		"name": "Deepak Chopra",
+		"links": [
+			{ "type": "sex", "result": "Homme" },
+			{ "type": "vivant", "result": "Oui" },
+			{ "type": "age", "result": "79" },
+			{ "type": "victime", "result": "Non" },
+			{ "type": "proximite", "result": "Connaissance" },
+			{ "type": "nationalite", "result": "Indien/Americain" },
+			{ "type": "ile", "result": "Non" }
+		]
+	},
+	{
+		"name": "Larry Summers",
+		"links": [
+			{ "type": "sex", "result": "Homme" },
+			{ "type": "vivant", "result": "Oui" },
+			{ "type": "age", "result": "71" },
+			{ "type": "victime", "result": "Non" },
+			{ "type": "proximite", "result": "Proche" },
+			{ "type": "nationalite", "result": "Americain" },
+			{ "type": "ile", "result": "Non" }
+		]
+	},
+	{
+		"name": "Joi Ito",
+		"links": [
+			{ "type": "sex", "result": "Homme" },
+			{ "type": "vivant", "result": "Oui" },
+			{ "type": "age", "result": "59" },
+			{ "type": "victime", "result": "Non" },
+			{ "type": "proximite", "result": "Proche" },
+			{ "type": "nationalite", "result": "Japonais/Americain" },
+			{ "type": "ile", "result": "Oui" }
+		]
+	},
+	{
+		"name": "Sultan Ahmed bin Sulayem",
+		"links": [
+			{ "type": "sex", "result": "Homme" },
+			{ "type": "vivant", "result": "Oui" },
+			{ "type": "age", "result": "68" },
+			{ "type": "victime", "result": "Non" },
+			{ "type": "proximite", "result": "Proche" },
+			{ "type": "nationalite", "result": "Emirati" },
+			{ "type": "ile", "result": "Oui" }
+		]
+	},
+	{
+		"name": "Diana Ross",
+		"links": [
+			{ "type": "sex", "result": "Femme" },
+			{ "type": "vivant", "result": "Oui" },
+			{ "type": "age", "result": "81" },
+			{ "type": "victime", "result": "Non" },
+			{ "type": "proximite", "result": "Connaissance" },
+			{ "type": "nationalite", "result": "Americaine" },
+			{ "type": "ile", "result": "Non" }
+		]
+	},
+	{
+		"name": "Alec Baldwin",
+		"links": [
+			{ "type": "sex", "result": "Homme" },
+			{ "type": "vivant", "result": "Oui" },
+			{ "type": "age", "result": "67" },
+			{ "type": "victime", "result": "Non" },
+			{ "type": "proximite", "result": "Connaissance" },
+			{ "type": "nationalite", "result": "Americain" },
+			{ "type": "ile", "result": "Non" }
+		]
+	},
+	{
+		"name": "Minnie Driver",
+		"links": [
+			{ "type": "sex", "result": "Femme" },
+			{ "type": "vivant", "result": "Oui" },
+			{ "type": "age", "result": "56" },
+			{ "type": "victime", "result": "Non" },
+			{ "type": "proximite", "result": "Connaissance" },
+			{ "type": "nationalite", "result": "Britannique" },
+			{ "type": "ile", "result": "Non" }
+		]
+	},
+	{
+		"name": "Phil Collins",
+		"links": [
+			{ "type": "sex", "result": "Homme" },
+			{ "type": "vivant", "result": "Oui" },
+			{ "type": "age", "result": "75" },
+			{ "type": "victime", "result": "Non" },
+			{ "type": "proximite", "result": "Connaissance" },
+			{ "type": "nationalite", "result": "Britannique" },
+			{ "type": "ile", "result": "Non" }
+		]
+	},
+	{
+		"name": "Sarah Kellen",
+		"links": [
+			{ "type": "sex", "result": "Femme" },
+			{ "type": "vivant", "result": "Oui" },
+			{ "type": "age", "result": "47" },
+			{ "type": "victime", "result": "Non" },
+			{ "type": "proximite", "result": "Tres proche" },
+			{ "type": "nationalite", "result": "Americaine" },
+			{ "type": "ile", "result": "Oui" }
+		]
+	},
+	{
+		"name": "Nadia Marcinkova",
+		"links": [
+			{ "type": "sex", "result": "Femme" },
+			{ "type": "vivant", "result": "Oui" },
+			{ "type": "age", "result": "40" },
+			{ "type": "victime", "result": "Oui" },
+			{ "type": "proximite", "result": "Tres proche" },
+			{ "type": "nationalite", "result": "Slovaque" },
+			{ "type": "ile", "result": "Oui" }
+		]
+	},
+	{
+		"name": "Bill Richardson",
+		"links": [
+			{ "type": "sex", "result": "Homme" },
+			{ "type": "vivant", "result": "Non" },
+			{ "type": "age", "result": "75" },
+			{ "type": "victime", "result": "Non" },
+			{ "type": "proximite", "result": "Proche" },
+			{ "type": "nationalite", "result": "Americain" },
+			{ "type": "ile", "result": "Oui" }
+		]
+	},
+	{
+		"name": "George Church",
+		"links": [
+			{ "type": "sex", "result": "Homme" },
+			{ "type": "vivant", "result": "Oui" },
+			{ "type": "age", "result": "72" },
+			{ "type": "victime", "result": "Non" },
+			{ "type": "proximite", "result": "Connaissance" },
+			{ "type": "nationalite", "result": "Americain" },
+			{ "type": "ile", "result": "Non" }
+		]
+	},
+	{
+		"name": "Noam Chomsky",
+		"links": [
+			{ "type": "sex", "result": "Homme" },
+			{ "type": "vivant", "result": "Non" },
+			{ "type": "age", "result": "97" },
+			{ "type": "victime", "result": "Non" },
+			{ "type": "proximite", "result": "Connaissance" },
+			{ "type": "nationalite", "result": "Americain" },
+			{ "type": "ile", "result": "Non" }
+		]
+	},
+	{
+		"name": "Marvin Minsky",
+		"links": [
+			{ "type": "sex", "result": "Homme" },
+			{ "type": "vivant", "result": "Non" },
+			{ "type": "age", "result": "88" },
+			{ "type": "victime", "result": "Non" },
+			{ "type": "proximite", "result": "Connaissance" },
+			{ "type": "nationalite", "result": "Americain" },
+			{ "type": "ile", "result": "Oui" }
+		]
+	},
+	{
+		"name": "Lesley Groff",
+		"links": [
+			{ "type": "sex", "result": "Femme" },
+			{ "type": "vivant", "result": "Oui" },
+			{ "type": "age", "result": "55" },
+			{ "type": "victime", "result": "Non" },
+			{ "type": "proximite", "result": "Tres proche" },
+			{ "type": "nationalite", "result": "Americaine" },
+			{ "type": "ile", "result": "Oui" }
+		]
+	},
+	{
+		"name": "Darren Indyke",
+		"links": [
+			{ "type": "sex", "result": "Homme" },
+			{ "type": "vivant", "result": "Oui" },
+			{ "type": "age", "result": "55" },
+			{ "type": "victime", "result": "Non" },
+			{ "type": "proximite", "result": "Tres proche" },
+			{ "type": "nationalite", "result": "Americain" },
+			{ "type": "ile", "result": "Oui" }
+		]
+	},
+	{
+		"name": "Peter Thiel",
+		"links": [
+			{ "type": "sex", "result": "Homme" },
+			{ "type": "vivant", "result": "Oui" },
+			{ "type": "age", "result": "58" },
+			{ "type": "victime", "result": "Non" },
+			{ "type": "proximite", "result": "Connaissance" },
+			{ "type": "nationalite", "result": "Allemand/Americain" },
+			{ "type": "ile", "result": "Non" }
+		]
+	},
+	{
+		"name": "Steve Bannon",
+		"links": [
+			{ "type": "sex", "result": "Homme" },
+			{ "type": "vivant", "result": "Oui" },
+			{ "type": "age", "result": "72" },
+			{ "type": "victime", "result": "Non" },
+			{ "type": "proximite", "result": "Connaissance" },
+			{ "type": "nationalite", "result": "Americain" },
+			{ "type": "ile", "result": "Non" }
+		]
+	},
+	{
+		"name": "Kathryn Ruemmler",
+		"links": [
+			{ "type": "sex", "result": "Femme" },
+			{ "type": "vivant", "result": "Oui" },
+			{ "type": "age", "result": "54" },
+			{ "type": "victime", "result": "Non" },
+			{ "type": "proximite", "result": "Proche" },
+			{ "type": "nationalite", "result": "Americaine" },
+			{ "type": "ile", "result": "Oui" }
+		]
+	}
+]
