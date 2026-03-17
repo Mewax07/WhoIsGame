@@ -863,7 +863,7 @@ def dessiner_fin(screen, etat, gagne):
 
 
 # Antoine
-# fonction principal du jeux
+# Fonction principal du jeux
 def main():
     screen = pygame.display.set_mode((WIDTH, HEIGHT), pygame.FULLSCREEN)
     pygame.display.set_caption("Qui est implique ?")
